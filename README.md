@@ -1,5 +1,7 @@
 # 💬 🗣️ mini-meetups
 
+**Developed by** **`Grace Chen Abudi`** 👩🏽‍💻
+
 ## 📣 Overview:
 
 - [💬 🗣️ mini-meetups](#-️-mini-meetups)
@@ -26,6 +28,8 @@ This is a demo project in **NextJS**, displays meetups and allowing to add and s
 ## 🛠️ Techniques & Tools:
 
 - Dynamic Pages routes
+- **`React Hooks`**:
+  - **_useRef_**: Is a hook that lets you reference a value that's not needed for rendering.
 
 ---
 
