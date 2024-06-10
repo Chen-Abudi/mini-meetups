@@ -17,7 +17,7 @@
 ## 🔎 Intro:
 
 This is a meetup community that includes information about meetups with the ability to add and share new meetup in the community.
-This is a demo project in **NextJS** focused on pages routes.
+This is a **demo project** in **`NextJS`** focused on pages routes.
 
 ## 🧰 Tech Stack:
 
