@@ -21,9 +21,9 @@ This is a demo project in **NextJS**, displays meetups and allowing to add and s
 ## 🧰 Tech Stack:
 
 - NextJS
-- React
+- ReactJS
 - JavaScript
-- CSS3
+- CSS Modules
 
 ## 🛠️ Techniques & Tools:
 
