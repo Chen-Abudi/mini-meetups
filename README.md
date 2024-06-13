@@ -33,7 +33,7 @@ This is a **demo project** in **`NextJS`**, which focused on pages routes.
   - **_useRef_**: Is a hook that lets you reference a value that's not needed for rendering.
 - **_Static Site Generation (SSG)_**
 - **_Server-Side Rendering_**
-- **_getStaticPaths_**
+- getStaticPaths
 
 ---
 
