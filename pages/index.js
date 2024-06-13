@@ -23,6 +23,19 @@ function Homepage(props) {
   return <MeetupList meetups={props.meetups} />;
 }
 
+// Example for Server-side rendering
+// export async function getServerSideProps(context) {
+//   const req = context.req;
+//   const res = context.res;
+
+//   // Fetch data from an API
+//   return {
+//     props: {
+//       meetups: DUMMY_MEETUPS,
+//     },
+//   };
+// }
+
 export async function getStaticProps() {
   // Fetch data from an API
   return {
