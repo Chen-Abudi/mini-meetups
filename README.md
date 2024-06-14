@@ -34,6 +34,7 @@ This is a **demo project** in **`NextJS`**, which focused on pages routes.
 - **_Static Site Generation (SSG)_**
 - **_Server-Side Rendering_**
 - getStaticPaths
+- **_API Routes_**
 
 ---
 
